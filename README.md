@@ -34,4 +34,4 @@ Multi-agent **Claude** pipelines automating Chartered Accountant workflows — c
 **AI/LLM** — Claude · Multi-Agent · RAG · MCP · Vector Search · Prompt & Context Eng
 
 #### Reach
-[LinkedIn](https://www.linkedin.com/in/rohan-patel-5254aa19b) · rohanpatel98.rp@gmail.com
+[**Download Resume (PDF)**](https://github.com/rohanpatel981/rohanpatel981/raw/main/RohanPatel-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/rohan-patel-5254aa19b) · rohanpatel98.rp@gmail.com
